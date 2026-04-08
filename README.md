@@ -1,6 +1,6 @@
 # Tarefa de SO - Arquivos e Modularização em Python
 
-> Author: Thiago dos Santos Moreira
+> Autor: Thiago dos Santos Moreira
 
 ## 1. Resolver o exercício 38, gravando todos os valores num arquivo e, no final do arquivo, gravar o maior e o menor, deixando escrito qual é o maior e qual é o menor. A gravação do arquivo deve estar em um procedimento.
 * Ex. 38: Resolver o exercício 36, modularizando a operações. Deve- se ter uma função que calcule e retorne o fatorial de um número, pra função que calcule e retorne a divisão. Deve-se fazer um procedimento que grave cada termo do somatório num arquivo e, por fim, o resultado final.
